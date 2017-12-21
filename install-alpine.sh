@@ -1,7 +1,5 @@
 apk update
-apk add apache2-utils npm
-npm install n -g
-n latest
+apk add apache2-utils
 npm install hapi
 npm install express
 npm install restify
