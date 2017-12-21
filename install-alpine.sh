@@ -1,5 +1,5 @@
-apt update
-apt add apache2-utils npm
+apk update
+apk add apache2-utils npm
 npm install n -g
 n latest
 npm install hapi
